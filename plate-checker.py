@@ -1,5 +1,4 @@
 import requests
-import threading
 from itertools import combinations
 
 url = 'https://www.myplates.com/api/licenseplates/passenger/lone-star-black/'
